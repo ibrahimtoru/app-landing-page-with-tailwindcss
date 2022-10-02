@@ -1,14 +1,14 @@
 {
-  "name": "tailwind-starter",
+  "name": "clipboard-app-home-page",
   "version": "1.0.0",
-  "description": "",
+  "description": "landing page for clipboard app",
   "main": "index.js",
   "scripts": {
     "build:css": "tailwindcss -i ./input.css -o  ./css/style.css",
     "watch:css": "tailwindcss -i ./input.css -o  ./css/style.css --watch"
   },
   "keywords": [],
-  "author": "",
+  "author": "ibrahimtoru",
   "license": "ISC",
   "devDependencies": {
     "tailwindcss": "^3.1.8"
